@@ -1,5 +1,5 @@
 
-[![Build Status](https://travis-ci.org/f1shear/tdd-hello-world.svg?branch=master)](https://travis-ci.org/f1shear/tdd-hello-world)
+[![Build Status](https://travis-ci.org/f1shear/tdd-hello-world-docker.svg?branch=master)](https://travis-ci.org/f1shear/tdd-hello-world-docker)
 
 
 # About 
@@ -14,7 +14,7 @@ TDD illustration by hello world program with docker and Travis CI for developmen
 
 # Test
 
-    $ python test_hello_world.py
+    $ python tests.py
 
 
 
